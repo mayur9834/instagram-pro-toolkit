@@ -120,7 +120,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please reach out to the repository owner:
 
-- **Shivam Kumar** - [GitHub Profile](https://github.com/shivamk21-ssk)
+- mayur gangurde linkedin:https://www.linkedin.com/in/mayur-gangurde-979860371
+- 
 
 ## Releases
 
